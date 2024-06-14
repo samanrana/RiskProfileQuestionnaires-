@@ -4,6 +4,7 @@ import {widthPercentageToDP as wp} from 'react-native-responsive-screen';
 import MainStyling from '../../assets/styles/MainStyling';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import {useFocusEffect} from '@react-navigation/native';
+import colors from '../../assets/colors/colors';
 
 const Profile = () => {
   const [score, setScore] = useState(null);
@@ -59,7 +60,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#f0f0f0',
+    backgroundColor: colors.white,
   },
   profileImage: {
     width: wp('30%'),
