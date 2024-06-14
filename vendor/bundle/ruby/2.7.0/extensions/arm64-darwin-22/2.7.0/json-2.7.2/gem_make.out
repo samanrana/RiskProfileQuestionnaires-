@@ -1,0 +1,13 @@
+current directory: /Applications/ReactNative/Assessment/Assessment/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+/Users/samanrana/.rvm/rubies/ruby-2.7.6/bin/ruby -I /Users/samanrana/.rvm/rubies/ruby-2.7.6/lib/ruby/2.7.0 -r ./siteconf20240613-87455-gqf28j.rb extconf.rb
+creating Makefile
+
+current directory: /Applications/ReactNative/Assessment/Assessment/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Applications/ReactNative/Assessment/Assessment/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Applications/ReactNative/Assessment/Assessment/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" install
